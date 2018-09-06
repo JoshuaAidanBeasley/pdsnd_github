@@ -17,3 +17,4 @@ README.md
 
 ### Credits
 All files belong to Udacity
+Some of the code was done by Joshua Beasley
